@@ -54,5 +54,5 @@ pulchowk_nav/
 
 ## Notes
 
-This project focuses on understanding data structures and algorithms through visualization rather than on real-world navigation accuracy.
+The project is organized so the algorithm and data-structure logic is separated from the Tkinter UI layer. This makes the code easier to understand, test, and extend.
 
